@@ -14,7 +14,7 @@ const handleSubmit = (e) => {
             " Cover: " + cover +
             " Author: " + author);
 
-            // Setting book to data 
+            // Setting book to data
             const book = {
                 title:title,
                 cover:cover,
